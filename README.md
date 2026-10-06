@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&weight=600&size=24&pause=1000&color=17F700&vCenter=true&width=435&lines=Hi+I'm+Gianfranco;Welcome+to+my+profile!)](https://git.io/typing-svg)
 ---
 
-I'm a Data Science Master's student at the University of Padua. I also hold a Bachelor's degree in Computer Science from the University of Udine.
+I'm a Data Scientist at Engineering Group, with a MSc in Data Science at the University of Padova.
 
-I'm currently working as a ML Engineer Intern at Emissium in Lisbon. My work focuses on building and maintaining a feature store and other infrastructure for ML models (e.g., pipelines, APIs, monitoring, etc.). I am also writing my Master's thesis on how the merit-order effect impacts renewable energy forecasting, along with day-ahead price prediction.
-
+My work focuses on post-training for our LLM EngGPT. The current iteration is [EngGPT2-16B-A3B](https://huggingface.co/engineering-group/EngGPT2-16B-A3B), where you can download its weights.
 I'm passionate about building scalable, efficient and explainable ML systems that can make a real impact in the world.
 
 When I'm not coding, I enjoy watching movies and TV shows, going to the gym, and exploring new technologies.
