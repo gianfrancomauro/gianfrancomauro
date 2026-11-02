@@ -3,7 +3,7 @@
 
 I'm a Data Scientist at Engineering Group, with a MSc in Data Science at the University of Padova.
 
-My work focuses on post-training for our LLM EngGPT. The current iteration is [EngGPT2-16B-A3B](https://huggingface.co/engineering-group/EngGPT2-16B-A3B), where you can download its weights.
+My work focuses on data and post-training for our LLM EngGPT. The current iteration is [EngGPT2-16B-A3B](https://huggingface.co/engineering-group/EngGPT2-16B-A3B), where you can download its weights.
 I'm passionate about building scalable, efficient and explainable ML systems that can make a real impact in the world.
 
 When I'm not coding, I enjoy watching movies and TV shows, going to the gym, and exploring new technologies.
