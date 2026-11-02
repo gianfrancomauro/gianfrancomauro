@@ -14,7 +14,6 @@ When I'm not coding, I enjoy watching movies and TV shows, going to the gym, and
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn">
 </a>
 </br>
-</br>
 <a href="https://gianfrancomauro.com">
   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fgianfrancomauro.com&label=My%20Website%20is%20">
 </a>
